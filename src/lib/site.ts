@@ -44,7 +44,19 @@ export const site = data as SiteData;
 /** Draft mode is the default. It shows visible placeholders, noindexes the site and blocks crawlers. */
 export const isDraft = process.env.NEXT_PUBLIC_DRAFT_MODE !== "false";
 
-export const siteUrl = (process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").replace(/\/+$/, "");
+function getSiteUrl(value: string | undefined): string {
+  const candidate = (value || "http://localhost:3000").trim();
+  const withProtocol = /^[a-z][a-z\d+.-]*:\/\//i.test(candidate) ? candidate : `https://${candidate}`;
+
+  try {
+    const url = new URL(withProtocol);
+    return url.toString().replace(/\/+$/, "");
+  } catch {
+    return "http://localhost:3000";
+  }
+}
+
+export const siteUrl = getSiteUrl(process.env.NEXT_PUBLIC_SITE_URL);
 
 export const approvedTestimonials = site.testimonials.filter((t) => t.approved);
 
