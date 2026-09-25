@@ -85,8 +85,8 @@ for (const [id, img] of Object.entries(images)) {
 // 6. Environment (production only)
 const envReport = [];
 if (strict) {
-  const url = process.env.NEXT_PUBLIC_SITE_URL;
-  if (!url || /localhost|example\.com/.test(url)) envReport.push("NEXT_PUBLIC_SITE_URL must be the real public URL");
+  const url = process.env.SITE_URL;
+  if (!url || /localhost|example\.com/.test(url)) envReport.push("SITE_URL must be the real public URL");
   if (process.env.NEXT_PUBLIC_DRAFT_MODE !== "false") envReport.push('NEXT_PUBLIC_DRAFT_MODE must be "false" for production');
   for (const k of ["RESEND_API_KEY", "ENQUIRY_TO_EMAIL", "ENQUIRY_FROM_EMAIL"]) {
     if (!process.env[k]) envReport.push(`${k} is not set (the enquiry form cannot send without it)`);

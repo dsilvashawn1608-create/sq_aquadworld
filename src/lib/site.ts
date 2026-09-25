@@ -56,7 +56,7 @@ function getSiteUrl(value: string | undefined): string {
   }
 }
 
-export const siteUrl = getSiteUrl(process.env.NEXT_PUBLIC_SITE_URL);
+export const siteUrl = getSiteUrl(process.env.SITE_URL);
 
 export const approvedTestimonials = site.testimonials.filter((t) => t.approved);
 
