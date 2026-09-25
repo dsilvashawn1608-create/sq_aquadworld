@@ -1,0 +1,29 @@
+{
+  "name": "sfaquaworld",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Steve Fernandes Aqua World: Bespoke Aquarium Studio website",
+  "scripts": {
+    "dev": "next dev",
+    "build": "node scripts/check-placeholders.mjs && next build",
+    "start": "next start",
+    "typecheck": "tsc --noEmit",
+    "check:placeholders": "node scripts/check-placeholders.mjs",
+    "check:production": "node scripts/check-placeholders.mjs --strict"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "gsap": "^3.13.0",
+    "next": "^15.5.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.0",
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tailwindcss": "^4.1.0",
+    "typescript": "^5.6.0"
+  }
+}

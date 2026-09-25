@@ -1,0 +1,37 @@
+{
+  "brand": {
+    "name": "Steve Fernandes Aqua World",
+    "shortName": "SfaquaWorld",
+    "founder": "Steve Fernandes",
+    "descriptor": "Bespoke Aquarium Studio",
+    "statement": "Transforming Spaces Into Living Underwater Masterpieces",
+    "supporting": "Custom Aquarium Design · Installation · Maintenance",
+    "philosophy": "A Passion for Living Art"
+  },
+  "contact": {
+    "phone": null,
+    "whatsapp": null,
+    "email": null,
+    "address": null,
+    "serviceArea": null,
+    "hours": null
+  },
+  "social": {
+    "instagram": null,
+    "facebook": null,
+    "youtube": null
+  },
+  "steve": {
+    "bio": null,
+    "philosophy": null,
+    "credentials": null
+  },
+  "testimonials": [],
+  "faq": [
+    { "q": "How much does a custom aquarium cost?", "a": null },
+    { "q": "Do you provide ongoing maintenance?", "a": null },
+    { "q": "How long does installation take?", "a": null },
+    { "q": "Do you design planted tanks?", "a": null },
+    { "q": "Which areas do you serve?", "a": null }
+  ]
+}

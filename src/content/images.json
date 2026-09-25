@@ -1,0 +1,65 @@
+{
+  "heroLongTank": {
+    "file": "/images/hero-long-tank.webp",
+    "width": 3750,
+    "height": 1020,
+    "alt": "Wide planted freshwater aquarium with red driftwood, stem plants and small fish under purple-blue light",
+    "ownershipConfirmed": false
+  },
+  "longTankLeft": {
+    "file": "/images/long-tank-left.webp",
+    "width": 2200,
+    "height": 1030,
+    "alt": "Left side of a long planted aquarium with red driftwood, stones and colourful stem plants",
+    "ownershipConfirmed": false
+  },
+  "driftwood": {
+    "file": "/images/driftwood-aquascape.webp",
+    "width": 993,
+    "height": 960,
+    "alt": "Aquascape of branching driftwood and dark stone covered in moss and small plants on pale sand",
+    "ownershipConfirmed": false
+  },
+  "hairgrass": {
+    "file": "/images/hairgrass-aquascape.webp",
+    "width": 1170,
+    "height": 877,
+    "alt": "Minimalist aquascape with dark rocks, a dense green carpet and a school of small fish in a glass tank",
+    "ownershipConfirmed": false
+  },
+  "homeAngel": {
+    "file": "/images/home-angelfish-tank.webp",
+    "width": 1280,
+    "height": 755,
+    "alt": "Planted home aquarium with two angelfish, driftwood and green plants over pale sand",
+    "ownershipConfirmed": false
+  },
+  "plantedWide": {
+    "file": "/images/planted-wide.webp",
+    "width": 1280,
+    "height": 578,
+    "alt": "Densely planted aquarium with red and gold stem plants, driftwood and a school of small fish",
+    "ownershipConfirmed": false
+  },
+  "angelPortrait": {
+    "file": "/images/angelfish-portrait.webp",
+    "width": 960,
+    "height": 1280,
+    "alt": "Close-up of angelfish swimming among green aquarium plants",
+    "ownershipConfirmed": false
+  },
+  "tetrasMacro": {
+    "file": "/images/tetras-macro.webp",
+    "width": 1280,
+    "height": 854,
+    "alt": "Two orange and blue tetras swimming in front of green aquarium plants",
+    "ownershipConfirmed": false
+  },
+  "stevePortrait": {
+    "file": "/images/steve-portrait.webp",
+    "width": 640,
+    "height": 640,
+    "alt": "Portrait of Steve Fernandes standing among palm trees",
+    "ownershipConfirmed": false
+  }
+}

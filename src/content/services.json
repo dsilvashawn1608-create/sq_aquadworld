@@ -1,0 +1,77 @@
+{
+  "copyConfirmed": false,
+  "items": [
+    {
+      "slug": "custom-aquarium-design",
+      "name": "Custom Aquarium Design",
+      "summary": "An aquarium conceived around your space, your style and the life you want it to hold.",
+      "page": true,
+      "image": "driftwood",
+      "details": null
+    },
+    {
+      "slug": "aquascaping",
+      "name": "Aquascaping",
+      "summary": "Stone, wood and plants composed into a considered underwater landscape.",
+      "page": true,
+      "image": "hairgrass",
+      "details": null
+    },
+    {
+      "slug": "aquarium-maintenance",
+      "name": "Aquarium Maintenance",
+      "summary": "Ongoing care that keeps a finished aquarium looking the way it was designed.",
+      "page": true,
+      "image": "plantedWide",
+      "details": null
+    },
+    {
+      "slug": "aquarium-setup",
+      "name": "Aquarium Setup",
+      "summary": "Careful setup of the tank, equipment and layout so the aquarium gets off to a good start.",
+      "page": false,
+      "image": null,
+      "details": null
+    },
+    {
+      "slug": "fish-tank-cleaning",
+      "name": "Fish Tank Cleaning",
+      "summary": "Thorough cleaning and upkeep for existing aquariums.",
+      "page": false,
+      "image": null,
+      "details": null
+    },
+    {
+      "slug": "plant-aquariums",
+      "name": "Plant Aquariums",
+      "summary": "Planted aquariums where the greenery is the main event.",
+      "page": false,
+      "image": null,
+      "details": null
+    },
+    {
+      "slug": "home-aquariums",
+      "name": "Home Aquariums",
+      "summary": "Aquariums designed to belong in a living room, dining room or quiet corner of the home.",
+      "page": false,
+      "image": null,
+      "details": null
+    },
+    {
+      "slug": "office-aquariums",
+      "name": "Office Aquariums",
+      "summary": "Aquariums for reception areas, offices and other work environments.",
+      "page": false,
+      "image": null,
+      "details": null
+    },
+    {
+      "slug": "commercial-installations",
+      "name": "Commercial Installations",
+      "summary": "Larger installations for hospitality, retail and public-facing spaces.",
+      "page": false,
+      "image": null,
+      "details": null
+    }
+  ]
+}

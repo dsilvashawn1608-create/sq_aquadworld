@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "project-01",
+    "confirmed": false,
+    "category": "home",
+    "title": null,
+    "location": null,
+    "year": null,
+    "summary": null,
+    "cover": "longTankLeft",
+    "gallery": ["heroLongTank", "longTankLeft"],
+    "story": { "overview": null, "brief": null, "design": null, "build": null, "installation": null, "result": null },
+    "specs": { "size": null, "volume": null, "style": null, "plants": null, "fish": null, "filtration": null, "lighting": null, "materials": null }
+  },
+  {
+    "slug": "project-02",
+    "confirmed": false,
+    "category": "home",
+    "title": null,
+    "location": null,
+    "year": null,
+    "summary": null,
+    "cover": "driftwood",
+    "gallery": ["driftwood"],
+    "story": { "overview": null, "brief": null, "design": null, "build": null, "installation": null, "result": null },
+    "specs": { "size": null, "volume": null, "style": null, "plants": null, "fish": null, "filtration": null, "lighting": null, "materials": null }
+  },
+  {
+    "slug": "project-03",
+    "confirmed": false,
+    "category": "home",
+    "title": null,
+    "location": null,
+    "year": null,
+    "summary": null,
+    "cover": "hairgrass",
+    "gallery": ["hairgrass"],
+    "story": { "overview": null, "brief": null, "design": null, "build": null, "installation": null, "result": null },
+    "specs": { "size": null, "volume": null, "style": null, "plants": null, "fish": null, "filtration": null, "lighting": null, "materials": null }
+  },
+  {
+    "slug": "project-04",
+    "confirmed": false,
+    "category": "home",
+    "title": null,
+    "location": null,
+    "year": null,
+    "summary": null,
+    "cover": "homeAngel",
+    "gallery": ["homeAngel"],
+    "story": { "overview": null, "brief": null, "design": null, "build": null, "installation": null, "result": null },
+    "specs": { "size": null, "volume": null, "style": null, "plants": null, "fish": null, "filtration": null, "lighting": null, "materials": null }
+  },
+  {
+    "slug": "project-05",
+    "confirmed": false,
+    "category": "home",
+    "title": null,
+    "location": null,
+    "year": null,
+    "summary": null,
+    "cover": "plantedWide",
+    "gallery": ["plantedWide"],
+    "story": { "overview": null, "brief": null, "design": null, "build": null, "installation": null, "result": null },
+    "specs": { "size": null, "volume": null, "style": null, "plants": null, "fish": null, "filtration": null, "lighting": null, "materials": null }
+  }
+]

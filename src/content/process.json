@@ -1,0 +1,35 @@
+{
+  "copyConfirmed": false,
+  "steps": [
+    {
+      "id": "consultation",
+      "title": "Consultation",
+      "text": "We start by understanding your space, your ideas and how you want to live with the aquarium.",
+      "image": "homeAngel"
+    },
+    {
+      "id": "design",
+      "title": "Design",
+      "text": "The concept takes shape: layout, style, materials and equipment, refined together.",
+      "image": "driftwood"
+    },
+    {
+      "id": "build",
+      "title": "Build",
+      "text": "The tank, hardscape and systems are prepared for their new home.",
+      "image": "hairgrass"
+    },
+    {
+      "id": "installation",
+      "title": "Installation",
+      "text": "The aquarium is brought into your space and set up, ready to become part of it.",
+      "image": "longTankLeft"
+    },
+    {
+      "id": "maintenance",
+      "title": "Maintenance",
+      "text": "Regular care keeps the aquarium healthy and beautiful long after installation day.",
+      "image": "plantedWide"
+    }
+  ]
+}
